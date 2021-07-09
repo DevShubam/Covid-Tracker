@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Covid-19 Tracker",
+    "version": "1.0.0",
+    "description": "Find out stats for Coronavirus quickly and easily.",
+    "browser_action": {
+      "default_popup": "index.html"
+    }
+}
