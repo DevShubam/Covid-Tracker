@@ -4,8 +4,5 @@ Fast, Lightweight and Free browser extension to track Coronavirus stats all arou
 
 # Features
 
-- [x] Test
-
-- [] Test
-
-✔ Test
+✔ Up to Date
+  - Due to the ___
