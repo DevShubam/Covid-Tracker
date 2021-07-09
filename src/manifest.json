@@ -5,5 +5,8 @@
     "description": "Find out stats for Coronavirus quickly and easily.",
     "browser_action": {
       "default_popup": "index.html"
-    }
+    },
+ "icons": {
+ "128": "_"
+}
 }
