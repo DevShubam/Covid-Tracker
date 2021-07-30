@@ -1,6 +1,7 @@
 # Covid-Tracker
 Fast, Lightweight and Free browser extension to track Coronavirus stats all around the world.
 
+Version: 1.0.0
 
 # Features
 
